@@ -62,8 +62,6 @@ body {
   margin-right: 10px;
 }
 
-.nav_oper_li, .nav_icon_li {}
-
 .nav_oper_a, .nav_oper1_a, .nav_oper2_a, .nav_icon_a, .nav_footer_a {
   text-decoration: none;
 }
@@ -120,7 +118,6 @@ body {
   width: 200px;
   list-style-type: none;
   background-color: rgba(0, 0, 0, 0.7);
-  ;
   border-radius: 0px 0px 5px 5px;
   padding-top: 2px;
   padding-bottom: 5px;
